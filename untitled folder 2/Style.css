@@ -1,0 +1,65 @@
+/* Set body margin and background color */
+body {
+    margin: 0;
+    background-color: #f9f9f9;
+  }
+  
+  /* Set container width and center it */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style headings */
+  h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Style paragraphs */
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 70%;
+  }
+  
+  /* Style links */
+  a {
+    color: #0071c5;
+    text-decoration: none;
+    border-bottom: 1px solid #0071c5;
+  }
+  
+  a:hover {
+    color: #004c8c;
+    border-bottom: 1px solid #004c8c;
+  }
+  
+  /* Style images */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+  }
